@@ -1,3 +1,13 @@
+# Datasets (large, and they have their own licence)
+dataset/
+mendeley/
+data/
+*.zip
+
+# Trained model files (delete these two lines if your model is small and you want to share it)
+*.h5
+*.keras
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
